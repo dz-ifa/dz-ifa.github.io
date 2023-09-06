@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "This Website is to showcase the Projects Dzifa "
+excerpt: "This Website is to showcase the Projects Dzifa has completed"
 #feature_row:
  # - image_path: assets/img/CNC-Mill-Thumbnail.jpg
   #  alt: "CNC Mill"
