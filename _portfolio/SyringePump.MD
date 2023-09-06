@@ -6,17 +6,17 @@ excerpt: "Syringe pumps are devices that are used for both research and medical 
 * High accuracy
 * Non-pulsatile flow "
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg  
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  image: /assets/img/syring pump1.png
+  teaser: /assets/img/syring pump1.png
 gallery:
-  - url: /assets/img/Cyber-Scooter-1.jpg
-    image_path: assets/img/Cyber-Scooter-1.jpg
+  - url: /assets/img/syring pump1.png
+    image_path: assets/img/syring pump1.png
     alt: "placeholder image 1"
-  - url: /assets/img/Cyber-Scooter-2.jpg
-    image_path: assets/img/Cyber-Scooter-2.jpg
+  - url: /assets/img/syringepump3.png
+    image_path: assets/img/syringepump3.png
     alt: "placeholder image 2"
-  - url: /assets/img/Cyber-Scooter-3.jpg
-    image_path: assets/img/Cyber-Scooter-3.jpg
+  - url: /assets/img/syringepump4.png
+    image_path: assets/img/syringepump4.png
     alt: "placeholder image 3"
 ---
 
