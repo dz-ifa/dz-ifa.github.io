@@ -97,13 +97,13 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "assets/img/IMG_3008.jpg"
+  avatar           : "assets/img/IMG_2958.jpg"
   bio              : "An engineer! :) "
   location         : "Nashville, TN"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/DrD-Flo"
+      url: "https://dz-ifa.github.io/_pages/about/"
 
 
 
@@ -112,8 +112,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/DrD-Flo"
-
+      url: "https://dz-ifa.github.io/_pages/about/"
 
 
 # Reading Files
