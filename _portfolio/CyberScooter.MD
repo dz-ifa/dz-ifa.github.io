@@ -1,6 +1,6 @@
 ---
 title: "Syringe Pumpp "
-excerpt: "This was fabricated using: 
+excerpt: "This was fabricated using: "
   image: /assets/img/Cyber-Scooter-Banner.jpg
   teaser: /assets/img/Cyber-Scooter-TH.jpg
 gallery:
