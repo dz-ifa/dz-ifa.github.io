@@ -1,4 +1,3 @@
-
 ---
 title: "Syringe Pump"
 excerpt: "Syringe pumps are devices that are used for both research and medical purposes to administer precise amounts of fluid over set time periods. There are many benefits of a syringe pump over a other forms of pump. A few of these advantages are:
@@ -20,6 +19,7 @@ gallery:
     image_path: assets/img/Cyber-Scooter-3.jpg
     alt: "placeholder image 3"
 ---
+
 
 Syringe Pumps have uses in many settings including Medical ones
 
