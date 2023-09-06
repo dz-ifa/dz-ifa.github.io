@@ -2,7 +2,7 @@
 title: "Syringe Pump"
 excerpt: "In this project I created a Syringe pump for medical or resarch applications  "
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg  
+  image: /assets/img/syrine pump2.png  
   teaser: /assets/img/syring pump1.png
 gallery:
   - url: /assets/img/syring pump1.png
