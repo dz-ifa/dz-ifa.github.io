@@ -2,8 +2,8 @@
 title: "Syringe Pump"
 excerpt: "In this project I created a Syringe pump for medical or resarch applications  "
 header:
-  image: /assets/img/syring pump1.png
-  teaser: /assets/img/syring pump1.png
+  image: /assets/img/Cyber-Scooter-Banner.jpg  
+  teaser: /assets/img/Cyber-Scooter-TH.jpg
 gallery:
   - url: /assets/img/syring pump1.png
     image_path: assets/img/syring pump1.png
