@@ -18,4 +18,4 @@ Dzifa can operate a number of different computer controlled (CNC) fabrication to
 
 
 
-<img src="/assets/img/IMG_3008.jpg" alt="Dzifa Dumenyo" style="width:200px;"/>
+<img src="/assets/img/IMG_3008.jpeg" alt="Dzifa Dumenyo" style="width:200px;"/>
