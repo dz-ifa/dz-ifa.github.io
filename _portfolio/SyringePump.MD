@@ -8,8 +8,8 @@ gallery:
   - url: /assets/img/syring pump1.png
     image_path: assets/img/syring pump1.png
     alt: "placeholder image 1"
-  - url: /assets/img/syringepump3.png
-    image_path: assets/img/syringepump3.png
+  - url: /assets/img/syringepump3.jpg
+    image_path: assets/img/syringepump3.jpg
     alt: "placeholder image 2"
   - url: /assets/img/syringepump4.png
     image_path: assets/img/syringepump4.png
