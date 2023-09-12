@@ -94,6 +94,3 @@ Syringe Pumps are devices that are used for both research and medical purposes t
 #  Pump Operation Instructions
 
 Operation of the syringe pump is a fairly simple process. First rotate the control dial to the left to retract the pump and make space for the syringe. Next take the loaded syringe and slide it into the syringe holder and adjust the start position using the control dial. Once the syringe pump is properly loaded, hit the start/stop button to pause the pump movement and set the flow rate with the control dial. The flow rates will be showcased on the LCD monitor. Once the correct rate is displayed press the start/stop button again to start dispensing liquid. Motion can be stopped at any time by pressing the start/stop button again. Once the syringe pump has finished dispensing the pump will automatically stop. The syringe pump can be unloaded using the control dial in the same way as loading.
-
-
-Written with [StackEdit](https://stackedit.io/).
