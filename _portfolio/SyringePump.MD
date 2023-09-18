@@ -1,6 +1,6 @@
 ---
 title: "Syringe Pump"
-excerpt: "In this project I created a Syringe pump for medical or resarch applications  "
+excerpt: "In this project I created a Syringe pump for medical or research applications  "
 header:
   image: /assets/img/syrine pump2.png  
   teaser: /assets/img/syring pump1.png
