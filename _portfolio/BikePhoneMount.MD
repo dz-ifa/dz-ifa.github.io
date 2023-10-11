@@ -15,6 +15,8 @@ gallery:
     image_path: assets/img/syringepump4.png
     alt: "Assembled Bike Phone Holder"
 ---
+
+
 {% include gallery caption="Functional 3D Printed Phone Holder" %}
 
 # Project Overview  
