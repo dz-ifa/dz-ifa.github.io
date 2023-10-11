@@ -1,3 +1,4 @@
+---
 title: "CHBE 4200 GitHub Project 1: Bike Phone Mount/Holder"
 excerpt: "This project describes the design and fabrication of a screw-mount bike phone holder using top-down modeling. The phone holder is designed to securely hold a phone on a bike handlebar."
 header:
